@@ -1,0 +1,6 @@
+customer_id,signup_date,segment,channel
+C001,2024-12-15,Retail,Online
+C002,2025-01-10,SMB,Partner
+C003,2025-01-20,Enterprise,Direct
+C004,2025-02-05,Retail,Online
+C005,2025-02-15,SMB,Online

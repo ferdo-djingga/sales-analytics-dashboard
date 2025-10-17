@@ -9,23 +9,6 @@ A simple, job-ready analytics project that:
 
 ---
 
-## Project Structure
-
-Sales-and-Transaction-Analytics-Dashboard/
-├─ src/
-│   ├─ query.sql         # sample SQL for common analytics
-│   └─ analyze.py        # Python pipeline to build outputs
-├─ data/
-│   ├─ transactions.csv  # sample transactions data
-│   └─ customers.csv     # sample customers data
-├─ output/
-│   ├─ dashboard.xlsx    # generated: KPIs, tables, charts
-│   └─ summary.html      # generated: HTML snapshot
-├─ README.md
-└─ benchmark.md
-
----
-
 ## Project Instructions
 
 ### Set the Environment, Run
